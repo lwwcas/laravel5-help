@@ -2,7 +2,6 @@
     "name": "lwwcas/help",
     "description": "Demo-package",
     "type": "library",
-    "version": "0.1",
     "license": "MIT",
     "extra": {
         "laravel": {
