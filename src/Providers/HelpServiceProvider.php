@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\Help\Providers;
+namespace Help\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;
