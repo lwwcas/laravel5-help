@@ -1,13 +1,6 @@
 {
     "name": "lwwcas/help",
     "description": "Demo-package",
-    "repositories": [{
-        "type": "path",
-        "url": "packages/lwwcas/help",
-        "options": {
-            "symlink": true
-        }
-    }],
     "require": {
         "mcamara/laravel-localization": "^1.3"
     },
