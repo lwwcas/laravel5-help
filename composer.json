@@ -22,6 +22,9 @@
     "autoload": {
         "psr-4": {
             "Lwwcas\\Help\\": "src/"
+        },
+        "files": {
+             "Lwwcas\\Help\\": "src/entities/helpers.php"
         }
     },
     "extra": {
