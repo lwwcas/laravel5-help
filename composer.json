@@ -4,6 +4,19 @@
     "type": "library",
     "version": "0.1",
     "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lwwcas\\Help\\Providers\\HelpServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Lwwcas\\Help\\": "src/"
+        }
+    },
     "require": {
         "mcamara/laravel-localization": "^1.3"
     },
