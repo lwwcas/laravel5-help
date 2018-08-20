@@ -7,7 +7,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lwwcas\\Help\\Providers\\HelpServiceProvider"
+                "lwwcas\\help\\Providers\\HelpServiceProvider"
             ],
             "aliases": {}
         }
