@@ -21,7 +21,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Help\\": "src/"
+            "Lwwcas\\Help\\": "src/"
         }
     },
     "extra": {

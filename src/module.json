@@ -6,7 +6,7 @@
     "active": 1,
     "order": 0,
     "providers": [
-        "Modules\\Help\\Providers\\HelpServiceProvider"
+        "Lwwcas\\Help\\Providers\\HelpServiceProvider"
     ],
     "aliases": {},
     "files": [
