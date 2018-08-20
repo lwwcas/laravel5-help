@@ -18,5 +18,5 @@
             "email": "lucasduarte.job@gmail.com"
         }
     ],
-    "minimum-stability": "master"
+    "minimum-stability": "dev"
 }
