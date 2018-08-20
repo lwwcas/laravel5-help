@@ -21,13 +21,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lwwcas\\Help\\": "src/"
+            "Help\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "src\\Providers\\HelpServiceProvider"
+                "Lwwcas\\Help\\Providers\\HelpServiceProvider"
             ],
             "aliases": {}
         }
