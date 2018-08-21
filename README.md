@@ -1,5 +1,7 @@
 ## Requirements
 
+- Laravel >= 5.5
+- PHP >= 7
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization)
 
 ## Installation
