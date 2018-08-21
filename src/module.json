@@ -1,0 +1,17 @@
+{
+    "name": "Help",
+    "alias": "help",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Lwwcas\\Help\\Providers\\HelpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php",
+        "entities/helpers.php"
+    ],
+    "requires": []
+}
