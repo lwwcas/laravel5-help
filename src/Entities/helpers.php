@@ -123,7 +123,8 @@ function routeProcess($route)
 }
 
 /**
- * Creating and manipulating cache
+ * It checks if the cache exists, if it does not exist it creates the cache,
+ * if it exists it rewrites the data.
  *
  * @param string $key
  * @param int $minutes
