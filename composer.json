@@ -1,7 +1,6 @@
 {
     "name": "lwwcas/help",
     "description": "Several kind of help for any project in Laravel",
-    "version": "1.0",
     "authors": [{
         "name": "Lucas Duarte Oliveira",
         "email": "lucasduarte.job@gmail.com",
