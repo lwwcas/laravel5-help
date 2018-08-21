@@ -23,6 +23,10 @@ echo currentPage();
 // Return to current page
 ```
 
+## Documentation
+
+  [Wiki](https://github.com/lwwcas/help/wiki)
+  
 ## Licence
 
 MIT
