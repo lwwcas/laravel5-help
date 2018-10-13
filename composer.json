@@ -23,9 +23,9 @@
         "psr-4": {
             "Lwwcas\\Help\\": "src/"
         },
-        "files": {
-             "Lwwcas\\Help\\": "src/entities/helpers.php"
-        }
+        "files": [
+             "src/entities/helpers.php"
+        ]
     },
     "extra": {
         "laravel": {
