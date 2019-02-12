@@ -11,7 +11,7 @@
     "aliases": {},
     "files": [
         "start.php",
-        "entities/helpers.php"
+        "Entities/helpers.php"
     ],
     "requires": []
 }
