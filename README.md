@@ -29,4 +29,4 @@ echo currentPage();
   
 ## Licence
 
-MIT
+WTFPL
